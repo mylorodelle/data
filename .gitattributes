@@ -1,0 +1,2 @@
+catalogs filter=lfs diff=lfs merge=lfs -text
+*.mylodb filter=lfs diff=lfs merge=lfs -text
